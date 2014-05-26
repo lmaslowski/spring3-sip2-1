@@ -23,7 +23,7 @@ Code: https://github.com/springinpractice
 		<groupId>com.springinpractice</groupId>
 		<artifactId>com.springinpractice.top</artifactId>
 		<version>1.0-RELEASE</version>
-        	<relativePath>./pom-parent.xml</relativePath>
+        	<relativePath>../sip-top/pom-parent.xml</relativePath>
 	</parent>
 	
 	<artifactId>sip02</artifactId>
